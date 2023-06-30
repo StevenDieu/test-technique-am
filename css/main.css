@@ -1,0 +1,144 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    margin-left: 18px;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    width: 100%;
+    justify-content: space-around;
+}
+.title {
+    text-align: left;
+    letter-spacing: -0.35px;
+    color: #FB3CEE;
+    font-size: 29px;
+    font-family: "DinRoundProBlack", sans-serif;
+}
+.fondamentaux {
+    font-size: 14.5px ;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: white;
+    background-color: #3300CC;
+    border: 10px solid #3300CC;
+    border-radius: 100px;
+    font-weight: bold;
+    width: 122px;
+    text-align: center;
+}
+.ooh {
+    font-size: 14.5px ;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: white;
+    width: 40px;
+    text-align: center;
+    background-color: #FF6600;
+    border: 10px solid #FF6600;
+    border-radius: 100px;
+    font-weight: bold;
+}
+.dooh {
+    font-size: 14.5px ;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: white;
+    background-color: #7364FD;
+    border: 10px solid #7364FD;
+    border-radius: 100px;
+    font-weight: bold;
+    width: 53px;
+    text-align: center;
+}
+.event{
+    font-size: 14.5px ;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: white;
+    background-color: #FB3CEE;
+    border: 10px solid #FB3CEE;
+    border-radius: 100px;
+    font-weight: bold;
+    width: 55px;
+    text-align: center;
+}
+.matrice {
+    font-size: 14.5px ;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: white;
+    background-color: #44E5FA;
+    border: 10px solid #44E5FA;
+    border-radius: 100px;
+    font-weight: bold;
+    width: 67px;
+    text-align: center;
+}
+.iconHome{
+    width: 22px;
+}
+.iconLogo {
+    width: 89px;
+    margin-right: 11px;
+}
+.bodyBot {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.textBot {
+    width: 30%;
+    margin-top: 35px;
+}
+.videoContainer{
+    width: 70%;
+}
+.video {
+    width: 100%;
+}
+.titleBot {
+    font-size: 29px;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: #FB3CEE;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-right: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bar {
+    width: 60px;
+    border: 6px solid #FB3CEE;
+    border-radius: 100px;
+    margin-left: 25px;
+}
+.activision{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: #3300CC;
+}
+.cod
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -5%;
+    font-size: 18px;
+    font-family: "DinRoundProBlack", sans-serif;
+    color: #3300CC;
+}
+.digitevent {
+    color: white;
+    font-family: "DinRoundProBlack", sans-serif;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: #3300CC;
+    border: 14px solid #3300CC;
+    width: 290px;
+    margin-left: 50px;
+    border-radius: 100px;
+}
